@@ -3,7 +3,7 @@
 
 **About me**
 - Senior BackEnd Engineer at ThoughtWorks
-- Built [Scrumble](http://scrumble.in/) Planning Poker tool
+- Creator of <a href="https://scrumble.in/" target="_blank">Scrumble</a> Planning Poker tool
 - Java, Springboot, Flutter are my primary skills
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=premeaswaran&show_icons=true&locale=en&hide_border=true" alt="Prem Kumar Easwaran" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premeaswaran&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Prem Kumar Easwaran" />|
