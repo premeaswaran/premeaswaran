@@ -1,5 +1,6 @@
 ## Hello 👋 My name is Prem Kumar Easwaran
 ### Problem Solver | Programmer | Life long learner
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-easwaran) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8809099/prem-kumar-easwaran)
 
 **About me**
 - Senior BackEnd Engineer at ThoughtWorks
