@@ -4,7 +4,7 @@
 
 **About me**
 - Senior BackEnd Engineer at ThoughtWorks
-- Creator of <a href="https://scrumble.in/" target="_blank">Scrumble</a> Planning Poker tool
+- Built <a href="https://pointingpro.com/" target="_blank">PointingPro</a> Planning Poker tool
 - Java, Springboot, Flutter are my primary skills
 
 **Tech Stack**
